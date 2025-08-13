@@ -51,5 +51,5 @@ sequenceDiagram
 
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
     activate server
-    server-->>browser: [{content: "test", date: "2025-08-13T11:39:53.375Z"},…]
+    server-->>browser: [{content: "Testing, testing, testing", date: "2025-08-13T11:55:54.370Z"},…]
     deactivate server
