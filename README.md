@@ -1,2 +1,2 @@
 # Full_Stack_Open
-##FSO Exercise Submission Repository
+FSO Exercise Submission Repository
