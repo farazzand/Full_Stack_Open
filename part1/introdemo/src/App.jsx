@@ -10,7 +10,7 @@ const Part = (props) => {
   console.log(props)
   return (
     <div>
-      <p>Part {props.part} has {props.exercises} of excercises</p>
+      <p>Part {props.part} has {props.exercises} excercises</p>
     </div>
   )
 }
@@ -32,7 +32,6 @@ const Total = (props) => {
     </div>
   )
 }
-
 
 const App = () => {
   const course = 'Half Stack application development'
